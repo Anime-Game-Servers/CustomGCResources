@@ -1,0 +1,108 @@
+[
+    {
+        "gadgetId": 70310301,
+        "serverController": "FireController"
+    },
+    {
+        "gadgetId": 70330332,
+        "serverController": "FireController"
+    },
+    {
+        "gadgetId": 70900007,
+        "serverController": "FireController"
+    },
+    {
+        "gadgetId": 70900055,
+        "serverController": "FireController"
+    },
+
+    {
+        "gadgetId": 70330403,
+        "serverController": "WaterController"
+    },
+    {
+        "gadgetId": 70900049,
+        "serverController": "WaterController"
+    },
+    {
+        "gadgetId": 70900052,
+        "serverController": "WaterController"
+    },
+
+    {
+        "gadgetId": 70330404,
+        "serverController": "GrassController"
+    },
+    {
+        "gadgetId": 70900050,
+        "serverController": "GrassController"
+    },
+    {
+        "gadgetId": 70900053,
+        "serverController": "GrassController"
+    },
+
+    {
+        "gadgetId": 70330400,
+        "serverController": "ElectricController"
+    },
+    {
+        "gadgetId": 70900008,
+        "serverController": "ElectricController"
+    },
+    {
+        "gadgetId": 70900056,
+        "serverController": "ElectricController"
+    },
+
+    {
+        "gadgetId": 70330401,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70900009,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70900057,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70900064,
+        "serverController": "IceController"
+    },
+
+    {
+        "gadgetId": 70310300,
+        "serverController": "WindController"
+    },
+    {
+        "gadgetId": 70330402,
+        "serverController": "WindController"
+    },
+    {
+        "gadgetId": 70900039,
+        "serverController": "WindController"
+    },
+    {
+        "gadgetId": 70900058,
+        "serverController": "WindController"
+    },
+
+    {
+        "gadgetId": 70330405,
+        "serverController": "RockController"
+    },
+    {
+        "gadgetId": 70900051,
+        "serverController": "RockController"
+    },
+    {
+        "gadgetId": 70900054,
+        "serverController": "RockController"
+    },
+    {
+        "gadgetId": 70900102,
+        "serverController": "RockController"
+    }
+]
