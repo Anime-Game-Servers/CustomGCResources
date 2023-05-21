@@ -1,8 +1,9 @@
 {
-    "mainId": 467,
+    "id": 467,
     "subQuests": [
         {
             "subId": 46702,
+            "mainId": 467,
             "gainItems": [
                 {
                     "itemId": 100064,
