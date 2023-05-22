@@ -1,0 +1,273 @@
+[
+    {
+        "condId" : 5033001,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_ADD_SCENE_TAG",
+                "param": [
+                    4,
+                    108
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_DEL_SCENE_TAG",
+                "param": [
+                    4,
+                    108
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033002,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_ADD_SCENE_TAG",
+                "param": [
+                    4,
+                    109
+                ]
+            },
+            {
+                "type":"ACTIVITY_ACTION_MODIFY_ACTIVITY_COND_DEFAULT",
+                "param": [
+                    5033001,
+                    0
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_DEL_SCENE_TAG",
+                "param": [
+                    4,
+                    109
+                ]
+
+            }
+        ]
+    },
+    {
+        "condId" : 5033003,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_LOAD_DYNAMIC_GROUP",
+                "param": [
+                    144001050,144001052,144001094,144001095,144001061
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_UNLOAD_DYNAMIC_GROUP",
+                "param": [
+                    144001050,144001052,144001094,144001095,144001061
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033004,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_LOAD_DYNAMIC_GROUP",
+                "param": [
+                    144001049,144001053,144001055,144001056,144001057,144001059,144001060,144001062,144001063,144001080,144001081,144001082,144001083,144001084,144001089,144001090,144001091,144001092,144001093,144001096,144001097,144001098,144002002
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_UNLOAD_DYNAMIC_GROUP",
+                "param": [
+                    144001049,144001053,144001055,144001056,144001057,144001059,144001060,144001062,144001063,144001080,144001081,144001082,144001083,144001084,144001089,144001090,144001091,144001092,144001093,144001096,144001097,144001098,144002002
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033005,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_LOAD_DYNAMIC_GROUP",
+                "param": [
+                    144001085,144001086,144001087,144001088
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_UNLOAD_DYNAMIC_GROUP",
+                "param": [
+                    144001085,144001086,144001087,144001088	
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033006,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_ACCEPT_QUEST",
+                "param": [
+                    7900010
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_CANCEL_QUEST",
+                "param": [
+                    79000
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033007,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_ACCEPT_QUEST",
+                "param": [
+                    7900314
+                ]
+            },
+            {
+                "type":"ACTIVITY_ACTION_LOAD_DYNAMIC_GROUP",
+                "param": [
+                    144002006,144002007,144002008,144002009,144002011,144002050,144002051,144002105,144002106,144002107
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_CANCEL_QUEST",
+                "param": [
+                    79003
+                ]
+            },
+            {
+                "type":"ACTIVITY_ACTION_UNLOAD_DYNAMIC_GROUP",
+                "param": [
+                    144002006,144002007,144002008,144002009,144002011,144002050,144002051,144002105,144002106,144002107
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033008,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_ACCEPT_QUEST",
+                "param": [
+                    7900201
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_CANCEL_QUEST",
+                "param": [
+                    79002
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033009,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_ACCEPT_QUEST",
+                "param": [
+                    7900109
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_CANCEL_QUEST",
+                "param": [
+                    79001
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033010,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_ACCEPT_QUEST",
+                "param": [
+                    7900601
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_CANCEL_QUEST",
+                "param": [
+                    79006
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033011,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_ACCEPT_QUEST",
+                "param": [
+                    7900401
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_CANCEL_QUEST",
+                "param": [
+                    79004
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033012,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_ACCEPT_QUEST",
+                "param": [
+                    7900506
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_CANCEL_QUEST",
+                "param": [
+                    79005
+                ]
+            }
+        ]
+    },
+    {
+        "condId" : 5033026,
+        "onValidExec":[
+            {
+                "type":"ACTIVITY_ACTION_UNLOCK_PLAYER_WORLD_SCENE",
+                "param": [
+                    4
+                ]
+            }
+        ],
+        "onInvalidExec":[
+            {
+                "type":"ACTIVITY_ACTION_LOCK_PLAYER_WORLD_SCENE",
+                "param": [
+                    4
+                ]
+            }
+        ]
+    }
+]
