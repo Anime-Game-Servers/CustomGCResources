@@ -1,0 +1,590 @@
+[
+    {
+        "entityId": 70220001,
+        "subfields": [
+            {
+                "subfieldName": "test_1",
+                "drop_id": 0
+            },
+            {
+                "subfieldName": "test_2",
+                "drop_id": 0
+            }
+        ]
+    },
+    {
+        "entityId": 70220013,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 70220014,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 70520001,
+        "subfields": [
+            {
+                "subfieldName": "Ore_Dig",
+                "drop_id": 101
+            }
+        ]
+    },
+    {
+        "entityId": 70520002,
+        "subfields": [
+            {
+                "subfieldName": "Ore_Mithril",
+                "drop_id": 103
+            }
+        ]
+    },
+    {
+        "entityId": 70520003,
+        "subfields": [
+            {
+                "subfieldName": "Ore_Crystal",
+                "drop_id": 104
+            }
+        ]
+    },
+    {
+        "entityId": 70510001,
+        "subfields": [
+            {
+                "subfieldName": "Water_Bloom",
+                "drop_id": 110
+            }
+        ]
+    },
+    {
+        "entityId": 70510003,
+        "subfields": [
+            {
+                "subfieldName": "ElectricRock_Destroy",
+                "drop_id": 111
+            }
+        ]
+    },
+    {
+        "entityId": 70510005,
+        "subfields": [
+            {
+                "subfieldName": "ElectricRock_Destroy",
+                "drop_id": 111
+            }
+        ]
+    },
+    {
+        "entityId": 70900237,
+        "subfields": [
+            {
+                "subfieldName": "ElectricRock_Destroy",
+                "drop_id": 111
+            }
+        ]
+    },
+    {
+        "entityId": 70510006,
+        "subfields": [
+            {
+                "subfieldName": "FireFlower_Destroy",
+                "drop_id": 112
+            }
+        ]
+    },
+    {
+        "entityId": 70510007,
+        "subfields": [
+            {
+                "subfieldName": "KapokFlower_Destroy",
+                "drop_id": 113
+            }
+        ]
+    },
+    {
+        "entityId": 70510009,
+        "subfields": [
+            {
+                "subfieldName": "Gather_Dandelion",
+                "drop_id": 110
+            }
+        ]
+    },
+    {
+        "entityId": 70216666,
+        "subfields": [
+            {
+                "subfieldName": "Chest_DropTest",
+                "drop_id": 999
+            }
+        ]
+    },
+    {
+        "entityId": 70900240,
+        "subfields": [
+            {
+                "subfieldName": "ElementRock1",
+                "drop_id": 111
+            },
+            {
+                "subfieldName": "ElementRock2",
+                "drop_id": 111
+            }
+        ]
+    },
+    {
+        "entityId": 28050201,
+        "subfields": [
+            {
+                "subfieldName": "MoraDrop",
+                "drop_id": 150
+            },
+            {
+                "subfieldName": "MoraDrop_Die",
+                "drop_id": 151
+            }
+        ]
+    },
+    {
+        "entityId": 28050202,
+        "subfields": [
+            {
+                "subfieldName": "MoraDrop",
+                "drop_id": 150
+            },
+            {
+                "subfieldName": "MoraDrop_Die",
+                "drop_id": 152
+            }
+        ]
+    },
+    {
+        "entityId": 28050203,
+        "subfields": [
+            {
+                "subfieldName": "MoraDrop",
+                "drop_id": 150
+            },
+            {
+                "subfieldName": "MoraDrop_Die",
+                "drop_id": 153
+            }
+        ]
+    },
+    {
+        "entityId": 28050211,
+        "subfields": [
+            {
+                "subfieldName": "MoraDrop",
+                "drop_id": 155
+            },
+            {
+                "subfieldName": "MoraDrop_Die",
+                "drop_id": 156
+            }
+        ]
+    },
+    {
+        "entityId": 28050212,
+        "subfields": [
+            {
+                "subfieldName": "MoraDrop",
+                "drop_id": 155
+            },
+            {
+                "subfieldName": "MoraDrop_Die",
+                "drop_id": 157
+            }
+        ]
+    },
+    {
+        "entityId": 28050213,
+        "subfields": [
+            {
+                "subfieldName": "MoraDrop",
+                "drop_id": 155
+            },
+            {
+                "subfieldName": "MoraDrop_Die",
+                "drop_id": 158
+            }
+        ]
+    },
+    {
+        "entityId": 70900277,
+        "subfields": [
+            {
+                "subfieldName": "ElementBall",
+                "drop_id": 998
+            }
+        ]
+    },
+    {
+        "entityId": 70900278,
+        "subfields": [
+            {
+                "subfieldName": "ElementBall",
+                "drop_id": 998
+            }
+        ]
+    },
+    {
+        "entityId": 70900279,
+        "subfields": [
+            {
+                "subfieldName": "ElementBall",
+                "drop_id": 998
+            }
+        ]
+    },
+    {
+        "entityId": 70900280,
+        "subfields": [
+            {
+                "subfieldName": "ElementBall",
+                "drop_id": 998
+            }
+        ]
+    },
+    {
+        "entityId": 70900283,
+        "subfields": [
+            {
+                "subfieldName": "ElementBall",
+                "drop_id": 998
+            }
+        ]
+    },
+    {
+        "entityId": 70300080,
+        "subfields": [
+            {
+                "subfieldName": "MonsterMeat",
+                "drop_id": 140
+            }
+        ]
+    },
+    {
+        "entityId": 70510012,
+        "subfields": [
+            {
+                "subfieldName": "ElementRock1",
+                "drop_id": 101
+            },
+            {
+                "subfieldName": "ElementRock2",
+                "drop_id": 103
+            }
+        ]
+    },
+    {
+        "entityId": 70520018,
+        "subfields": [
+            {
+                "subfieldName": "Ore_Crystal",
+                "drop_id": 102
+            }
+        ]
+    },
+    {
+        "entityId": 70350027,
+        "subfields": [
+            {
+                "subfieldName": "DropIce",
+                "drop_id": 998
+            }
+        ]
+    },
+    {
+        "entityId": 70900209,
+        "subfields": [
+            {
+                "subfieldName": "ElementBall",
+                "drop_id": 998
+            }
+        ]
+    },
+    {
+        "entityId": 70520019,
+        "subfields": [
+            {
+                "subfieldName": "Ore_Crystal",
+                "drop_id": 105
+            }
+        ]
+    },
+    {
+        "entityId": 70710131,
+        "subfields": [
+            {
+                "subfieldName": "ElementBall",
+                "drop_id": 995
+            }
+        ]
+    },
+    {
+        "entityId": 70710132,
+        "subfields": [
+            {
+                "subfieldName": "ElementBall",
+                "drop_id": 996
+            }
+        ]
+    },
+    {
+        "entityId": 70590025,
+        "subfields": [
+            {
+                "subfieldName": "Dulins_Blood",
+                "drop_id": 106
+            }
+        ]
+    },
+    {
+        "entityId": 70220026,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 70590027,
+        "subfields": [
+            {
+                "subfieldName": "Ore_MoonMeteor",
+                "drop_id": 107
+            }
+        ]
+    },
+    {
+        "entityId": 70220048,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 70220050,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 70220051,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 26010102,
+        "subfields": [
+            {
+                "subfieldName": "Dulins_Blood",
+                "drop_id": 106
+            }
+        ]
+    },
+    {
+        "entityId": 20010902,
+        "subfields": [
+            {
+                "subfieldName": "Dulins_Blood",
+                "drop_id": 106
+            }
+        ]
+    },
+    {
+        "entityId": 70360127,
+        "subfields": [
+            {
+                "subfieldName": "Dulins_Blood",
+                "drop_id": 106
+            }
+        ]
+    },
+    {
+        "entityId": 20010802,
+        "subfields": [
+            {
+                "subfieldName": "Dulins_Blood",
+                "drop_id": 106
+            }
+        ]
+    },
+    {
+        "entityId": 21011403,
+        "subfields": [
+            {
+                "subfieldName": "Dulins_Blood",
+                "drop_id": 106
+            }
+        ]
+    },
+    {
+        "entityId": 70220058,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 70220059,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 70220060,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 70950093,
+        "subfields": [
+            {
+                "subfieldName": "RewardCrate",
+                "drop_id": 130
+            }
+        ]
+    },
+    {
+        "entityId": 70590036,
+        "subfields": [
+            {
+                "subfieldName": "Ore_Thundercrystal",
+                "drop_id": 100
+            }
+        ]
+    },
+    {
+        "entityId": 70290151,
+        "subfields": [
+            {
+                "subfieldName": "Lots",
+                "drop_id": 154
+            }
+        ]
+    },
+    {
+        "entityId": 70290304,
+        "subfields": [
+            {
+                "subfieldName": "WoodenObject_Broken",
+                "drop_id": 159
+            },
+            {
+                "subfieldName": "Ore_Dig",
+                "drop_id": 160
+            }
+        ]
+    },
+    {
+        "entityId": 70540032,
+        "subfields": [
+            {
+                "subfieldName": "Ore_Crystal",
+                "drop_id": 115
+            },
+            {
+                "subfieldName": "LightBall",
+                "drop_id": 114
+            }
+        ]
+    },
+    {
+        "entityId": 70540031,
+        "subfields": [
+            {
+                "subfieldName": "Ore_Crystal",
+                "drop_id": 116
+            },
+            {
+                "subfieldName": "LightBall",
+                "drop_id": 114
+            }
+        ]
+    },
+    {
+        "entityId": 70520038,
+        "subfields": [
+            {
+                "subfieldName": "LightBall",
+                "drop_id": 114
+            }
+        ]
+    },
+    {
+        "entityId": 42401020,
+        "subfields": [
+            {
+                "subfieldName": "LightBall",
+                "drop_id": 117
+            }
+        ]
+    },
+    {
+        "entityId": 70290353,
+        "subfields": [
+            {
+                "subfieldName": "LightBall",
+                "drop_id": 117
+            }
+        ]
+    },
+    {
+        "entityId": 28020605,
+        "subfields": [
+            {
+                "subfieldName": "LightBall",
+                "drop_id": 118
+            }
+        ]
+    },
+    {
+        "entityId": 70330254,
+        "subfields": [
+            {
+                "subfieldName": "TumbleWeed",
+                "drop_id": 119
+            }
+        ]
+    },
+    {
+        "entityId": 70520039,
+        "subfields": [
+            {
+                "subfieldName": "Ore_Trishiraite",
+                "drop_id": 120
+            }
+        ]
+    }
+]

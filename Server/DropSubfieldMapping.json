@@ -1,0 +1,192 @@
+[
+    {
+        "dropId": 100,
+        "levelLimit": 1000,
+        "itemId": 21000601
+    },
+    {
+        "dropId": 101,
+        "levelLimit": 1000,
+        "itemId": 21000400
+    },
+    {
+        "dropId": 102,
+        "levelLimit": 1000,
+        "itemId": 21000500
+    },
+    {
+        "dropId": 103,
+        "levelLimit": 1000,
+        "itemId": 21000600
+    },
+    {
+        "dropId": 104,
+        "levelLimit": 1000,
+        "itemId": 21000700
+    },
+    {
+        "dropId": 105,
+        "levelLimit": 1000,
+        "itemId": 21000701
+    },
+    {
+        "dropId": 106,
+        "levelLimit": 1000,
+        "itemId": 21000702
+    },
+    {
+        "dropId": 107,
+        "levelLimit": 1000,
+        "itemId": 21000703
+    },
+    {
+        "dropId": 108,
+        "levelLimit": 1000,
+        "itemId": 21000704
+    },
+    {
+        "dropId": 110,
+        "levelLimit": 1000,
+        "itemId": 21000800
+    },
+    {
+        "dropId": 111,
+        "levelLimit": 1000,
+        "itemId": 21000900
+    },
+    {
+        "dropId": 112,
+        "levelLimit": 1000,
+        "itemId": 21001000
+    },
+    {
+        "dropId": 113,
+        "levelLimit": 1000,
+        "itemId": 21001100
+    },
+    {
+        "dropId": 114,
+        "levelLimit": 1000,
+        "itemId": 21000203
+    },
+    {
+        "dropId": 115,
+        "levelLimit": 1000,
+        "itemId": 21000501
+    },
+    {
+        "dropId": 116,
+        "levelLimit": 1000,
+        "itemId": 21000705
+    },
+    {
+        "dropId": 117,
+        "levelLimit": 1000,
+        "itemId": 21000204
+    },
+    {
+        "dropId": 118,
+        "levelLimit": 1000,
+        "itemId": 21000205
+    },
+    {
+        "dropId": 119,
+        "levelLimit": 1000,
+        "itemId": 21010400
+    },
+    {
+        "dropId": 120,
+        "levelLimit": 1000,
+        "itemId": 21000706
+    },
+    {
+        "dropId": 130,
+        "levelLimit": 1000,
+        "itemId": 21010000
+    },
+    {
+        "dropId": 140,
+        "levelLimit": 1000,
+        "itemId": 21000000
+    },
+    {
+        "dropId": 150,
+        "levelLimit": 1000,
+        "itemId": 21003000
+    },
+    {
+        "dropId": 151,
+        "levelLimit": 1000,
+        "itemId": 21003100
+    },
+    {
+        "dropId": 152,
+        "levelLimit": 1000,
+        "itemId": 21003200
+    },
+    {
+        "dropId": 153,
+        "levelLimit": 1000,
+        "itemId": 21003300
+    },
+    {
+        "dropId": 154,
+        "levelLimit": 1000,
+        "itemId": 21003400
+    },
+    {
+        "dropId": 155,
+        "levelLimit": 1000,
+        "itemId": 21003500
+    },
+    {
+        "dropId": 156,
+        "levelLimit": 1000,
+        "itemId": 21003600
+    },
+    {
+        "dropId": 157,
+        "levelLimit": 1000,
+        "itemId": 21003700
+    },
+    {
+        "dropId": 158,
+        "levelLimit": 1000,
+        "itemId": 21003800
+    },
+    {
+        "dropId": 159,
+        "levelLimit": 1000,
+        "itemId": 21000001
+    },
+    {
+        "dropId": 160,
+        "levelLimit": 1000,
+        "itemId": 21000002
+    },
+    {
+        "dropId": 995,
+        "levelLimit": 1000,
+        "itemId": 21000201
+    },
+    {
+        "dropId": 996,
+        "levelLimit": 1000,
+        "itemId": 21000202
+    },
+    {
+        "dropId": 997,
+        "levelLimit": 1000,
+        "itemId": 21000100
+    },
+    {
+        "dropId": 998,
+        "levelLimit": 1000,
+        "itemId": 21000200
+    },
+    {
+        "dropId": 999,
+        "levelLimit": 1000,
+        "itemId": 21000200
+    }
+]
