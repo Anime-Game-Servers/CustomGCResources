@@ -1,138 +1,620 @@
 [
     {
-        "gadgetId": 70310301,
-        "serverController": "FireController"
+        "gadgetId": 70130006,
+        "serverController": "SetGadgetState"
     },
     {
-        "gadgetId": 70330332,
-        "serverController": "FireController"
+        "gadgetId": 70130007,
+        "serverController": "SetGadgetState"
     },
     {
-        "gadgetId": 70900007,
-        "serverController": "FireController"
+        "gadgetId": 70130008,
+        "serverController": "SetGadgetState"
     },
     {
-        "gadgetId": 70900055,
-        "serverController": "FireController"
-    },
-
-    {
-        "gadgetId": 70330403,
-        "serverController": "WaterController"
+        "gadgetId": 70210001,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900049,
-        "serverController": "WaterController"
+        "gadgetId": 70210002,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900052,
-        "serverController": "WaterController"
-    },
-
-    {
-        "gadgetId": 70330404,
-        "serverController": "GrassController"
+        "gadgetId": 70210003,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900050,
-        "serverController": "GrassController"
+        "gadgetId": 70210004,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900053,
-        "serverController": "GrassController"
-    },
-
-    {
-        "gadgetId": 70330400,
-        "serverController": "ElectricController"
+        "gadgetId": 70210005,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900008,
-        "serverController": "ElectricController"
+        "gadgetId": 70210006,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900056,
-        "serverController": "ElectricController"
-    },
-
-    {
-        "gadgetId": 70330401,
-        "serverController": "IceController"
+        "gadgetId": 70210007,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900009,
-        "serverController": "IceController"
+        "gadgetId": 70210008,
+        "serverController": "Chest_Drop_Interact"
     },
     {
-        "gadgetId": 70900057,
-        "serverController": "IceController"
+        "gadgetId": 70210013,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900064,
-        "serverController": "IceController"
-    },
-
-    {
-        "gadgetId": 70310300,
-        "serverController": "WindController"
+        "gadgetId": 70210014,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70330402,
-        "serverController": "WindController"
+        "gadgetId": 70210023,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900039,
-        "serverController": "WindController"
+        "gadgetId": 70210024,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900058,
-        "serverController": "WindController"
-    },
-
-    {
-        "gadgetId": 70330405,
-        "serverController": "RockController"
+        "gadgetId": 70210033,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900051,
-        "serverController": "RockController"
+        "gadgetId": 70210034,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900054,
-        "serverController": "RockController"
+        "gadgetId": 70210043,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900102,
-        "serverController": "RockController"
-    },
-
-    {
-        "gadgetId": 70320001,
-        "serverController": "FireSprayController"
+        "gadgetId": 70210044,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70320002,
-        "serverController": "FireSprayController"
+        "gadgetId": 70210053,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70900037,
-        "serverController": "FireSprayController"
-    },
-
-    {
-        "gadgetId": 70800028,
-        "serverController": "ViewPointController"
-    },
-
-    {
-        "gadgetId": 70310011,
-        "serverController": "InmortalFireController"
+        "gadgetId": 70210054,
+        "serverController": "Chest_Interact"
     },
     {
-        "gadgetId": 70330335,
-        "serverController": "InmortalFireController"
+        "gadgetId": 70210055,
+        "serverController": "ElementRune"
     },
-
+    {
+        "gadgetId": 70210056,
+        "serverController": "Chest_Interact"
+    },
+    {
+        "gadgetId": 70210057,
+        "serverController": "ElementRune"
+    },
+    {
+        "gadgetId": 70210058,
+        "serverController": "ElementRune"
+    },
+    {
+        "gadgetId": 70210059,
+        "serverController": "ElementRune"
+    },
+    {
+        "gadgetId": 70210060,
+        "serverController": "ElementRune"
+    },
+    {
+        "gadgetId": 70210061,
+        "serverController": "ElementRune"
+    },
+    {
+        "gadgetId": 70210062,
+        "serverController": "ElementRune"
+    },
+    {
+        "gadgetId": 70210063,
+        "serverController": "Chest_Interact"
+    },
+    {
+        "gadgetId": 70210113,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70210114,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211103,
+        "serverController": "Chest_Interact"
+    },
+    {
+        "gadgetId": 70211104,
+        "serverController": "Chest_Interact"
+    },
+    {
+        "gadgetId": 70211152,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211153,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211154,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211155,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211156,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211157,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211158,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211159,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211164,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70211165,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70217008,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70217012,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70217014,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70217020,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70220013,
+        "serverController": "SubfieldDrop_WoodenObject_Broken"
+    },
+    {
+        "gadgetId": 70220014,
+        "serverController": "SubfieldDrop_WoodenObject_Broken"
+    },
+    {
+        "gadgetId": 70220026,
+        "serverController": "SubfieldDrop_WoodenObject_Broken"
+    },
+    {
+        "gadgetId": 70220031,
+        "serverController": "Fire_Source"
+    },
+    {
+        "gadgetId": 70220032,
+        "serverController": "SceneObj_Gear_Windmill01"
+    },
+    {
+        "gadgetId": 70220033,
+        "serverController": "SceneObj_Gear_Windmill01"
+    },
+    {
+        "gadgetId": 70220048,
+        "serverController": "SubfieldDrop_WoodenObject_Broken"
+    },
+    {
+        "gadgetId": 70220050,
+        "serverController": "SubfieldDrop_WoodenObject_Broken"
+    },
+    {
+        "gadgetId": 70220051,
+        "serverController": "SubfieldDrop_WoodenObject_Broken"
+    },
+    {
+        "gadgetId": 70220054,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220058,
+        "serverController": "SubfieldDrop_WoodenObject_Broken"
+    },
+    {
+        "gadgetId": 70220059,
+        "serverController": "SubfieldDrop_WoodenObject_Broken"
+    },
+    {
+        "gadgetId": 70220060,
+        "serverController": "SubfieldDrop_WoodenObject_Broken"
+    },
+    {
+        "gadgetId": 70220069,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220074,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220078,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220079,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220080,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220081,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220082,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220083,
+        "serverController": "WinterCampSnowPile"
+    },
+    {
+        "gadgetId": 70220087,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220088,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220094,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220095,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220101,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220102,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220103,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220104,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220105,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220107,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220108,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220109,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220110,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220111,
+        "serverController": "SetInteractOnDefault"
+    },
+    {
+        "gadgetId": 70220112,
+        "serverController": "SetInteractOnDefault"
+    },
+    {
+        "gadgetId": 70220113,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220114,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220115,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220116,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220117,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220118,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220119,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220121,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220122,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220123,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220125,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220126,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220129,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220130,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220133,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220134,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220135,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220138,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220139,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220140,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220141,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70220142,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230069,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230070,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230071,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230072,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230073,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230074,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230075,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230076,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230077,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230078,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230079,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230080,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230081,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230082,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230083,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230084,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230085,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230086,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230087,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230088,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230089,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230091,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230092,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230093,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230094,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230095,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230096,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230097,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230098,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230099,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230100,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230101,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230102,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230103,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230104,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230105,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230106,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230107,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230108,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230109,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230110,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230111,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230112,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70230113,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70270005,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70270006,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70270008,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70270009,
+        "serverController": "SetGadgetState"
+    },
     {
         "gadgetId": 70290001,
         "serverController": "tree"
@@ -141,7 +623,2174 @@
         "gadgetId": 70290002,
         "serverController": "tree"
     },
-
+    {
+        "gadgetId": 70290012,
+        "serverController": "GinsengTree"
+    },
+    {
+        "gadgetId": 70290032,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290045,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290051,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290054,
+        "serverController": "WindEnergyBodySmall"
+    },
+    {
+        "gadgetId": 70290059,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290067,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290069,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290070,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290071,
+        "serverController": "ElecCannon"
+    },
+    {
+        "gadgetId": 70290082,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290083,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290094,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290096,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290098,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290099,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290100,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290101,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290102,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290103,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290106,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290107,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290109,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290114,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290115,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290116,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290117,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290118,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290119,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290120,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290121,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290122,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290123,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70290124,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70290125,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290129,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70290130,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70290131,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70290132,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70290133,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70290134,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70290135,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290136,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290137,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290138,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290139,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290140,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290141,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290142,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290143,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290144,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290145,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290146,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290147,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290149,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290150,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70290151,
+        "serverController": "SubfieldDrop_Ore_Lots"
+    },
+    {
+        "gadgetId": 70290154,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290158,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290160,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290168,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290169,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290170,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290172,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290182,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290186,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290187,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290188,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290189,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290191,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290194,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290195,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290204,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290205,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290206,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290207,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290208,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290209,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290219,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290220,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290221,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290222,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290223,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290224,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290225,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290226,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290227,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290228,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290233,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290234,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290236,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290237,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290238,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290239,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290240,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290241,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290245,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290246,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290247,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290248,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290249,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290250,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290251,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290253,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290254,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290255,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290256,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290257,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290258,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290259,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290260,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290261,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290262,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290263,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290266,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290267,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290268,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290269,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290275,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290276,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290277,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290278,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290279,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290281,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290282,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290284,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290286,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290287,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290288,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290291,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290292,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290293,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290294,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290295,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290296,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290297,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70290298,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290299,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290300,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290302,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290303,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290309,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290310,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290311,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290312,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290318,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290319,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290321,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290322,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290323,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290324,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290326,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290327,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290328,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290329,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290330,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290331,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290332,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290333,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290334,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290335,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290336,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290337,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290338,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290339,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290340,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290341,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290342,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290343,
+        "serverController": "RockCannon"
+    },
+    {
+        "gadgetId": 70290347,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290353,
+        "serverController": "LitChargePoint"
+    },
+    {
+        "gadgetId": 70290364,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290365,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290366,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290367,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290373,
+        "serverController": "KazuhaServeItem_Gadget"
+    },
+    {
+        "gadgetId": 70290374,
+        "serverController": "KazuhaServeItem_Gadget"
+    },
+    {
+        "gadgetId": 70290375,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290377,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290378,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290379,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290390,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290392,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290405,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290406,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290408,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290415,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290416,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290417,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290421,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290422,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290423,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290424,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290428,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290435,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290436,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290437,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290438,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290449,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290450,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290451,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290452,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290453,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290454,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290455,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290456,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290457,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290458,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290459,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290460,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290461,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290462,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290463,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290465,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290466,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290467,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290468,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290469,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290470,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290471,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290472,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290473,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290474,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290475,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290476,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290477,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290478,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290479,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290480,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290481,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290482,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290483,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290484,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290485,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290486,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290487,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290488,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290489,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290490,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290491,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290492,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290493,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290494,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290495,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290496,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290497,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290498,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290499,
+        "serverController": "DreamFlower"
+    },
+    {
+        "gadgetId": 70290500,
+        "serverController": "DreamFlower"
+    },
+    {
+        "gadgetId": 70290501,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290502,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290503,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290504,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290505,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290506,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290507,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290508,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290509,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290510,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290511,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290512,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290513,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290514,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290515,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290516,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290517,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290518,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290519,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290520,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290521,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290522,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290523,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290524,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290525,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290526,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290527,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290528,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290529,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290530,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290531,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290532,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290533,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290534,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290535,
+        "serverController": "SetToysCD"
+    },
+    {
+        "gadgetId": 70290536,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290542,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290543,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290544,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290545,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290546,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290547,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290548,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290549,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290550,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290551,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290552,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290553,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290554,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290555,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290556,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290557,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290558,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290559,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290560,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290561,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290562,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290563,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290564,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290565,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290566,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290567,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290568,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290569,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290570,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290571,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290572,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290575,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290576,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290577,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290578,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290579,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290581,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290582,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290583,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290585,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290586,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290587,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290588,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290589,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290590,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290591,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290592,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290593,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290596,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290599,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290600,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290601,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290602,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290603,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290604,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290605,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290606,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290607,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290608,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290609,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290610,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290611,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290612,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290613,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290614,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290615,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290616,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290617,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290618,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290619,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290620,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290621,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290622,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290623,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290624,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290625,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290626,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290627,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290628,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290629,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290630,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290631,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290632,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290633,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290634,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290635,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290636,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290637,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290638,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290639,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290640,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290650,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290665,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290666,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290670,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290671,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290672,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290673,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290674,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290675,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290676,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290677,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290678,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290679,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290680,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290681,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290682,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290683,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290684,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290685,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290686,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290687,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290688,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290689,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290690,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290691,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290692,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290693,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290694,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290695,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290696,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290697,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290698,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290699,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290700,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290701,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290702,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290703,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290704,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290705,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290706,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290707,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290708,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290709,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290710,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290711,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290712,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290713,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290714,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290715,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290716,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290717,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290718,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290719,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290720,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290721,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290722,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290723,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290724,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290725,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290726,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290727,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290728,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290729,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290731,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290733,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290735,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290736,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290737,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290738,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290739,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290740,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290741,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290742,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290743,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290744,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290745,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290746,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290747,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290748,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290749,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290750,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290751,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290752,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290753,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290754,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290755,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290756,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290757,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290758,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290759,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290760,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290761,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290762,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290763,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290764,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290765,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290766,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290767,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290768,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290769,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290770,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290771,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290772,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290773,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290774,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290775,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290776,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290777,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290778,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290779,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290780,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290781,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290782,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290783,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290784,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290785,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290786,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290787,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290788,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290789,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290790,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290791,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290792,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290793,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290794,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290795,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290796,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290797,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290798,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290799,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290800,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290801,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290802,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290803,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290806,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290807,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290808,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290809,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290810,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290811,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290812,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290813,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290814,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290815,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290820,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290821,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290822,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290823,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290824,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290825,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290826,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290827,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290828,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290829,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290830,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290831,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290834,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290835,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290836,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290837,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290838,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290839,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290840,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290841,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290842,
+        "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70290843,
+        "serverController": "SetGadgetState"
+    },
     {
         "gadgetId": 70290844,
         "serverController": "SetGadgetState"
@@ -273,6 +2922,10 @@
     {
         "gadgetId": 70310010,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70310011,
+        "serverController": "ImmortalFire"
     },
     {
         "gadgetId": 70310014,
@@ -543,8 +3196,56 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70310099,
+        "serverController": "RogueDungeon_Gadget"
+    },
+    {
+        "gadgetId": 70310100,
+        "serverController": "RogueDungeon_Gadget"
+    },
+    {
+        "gadgetId": 70310101,
+        "serverController": "RogueDungeon_Gadget"
+    },
+    {
+        "gadgetId": 70310106,
+        "serverController": "RogueDungeon_Gadget"
+    },
+    {
+        "gadgetId": 70310123,
+        "serverController": "RogueDungeon_Gadget"
+    },
+    {
         "gadgetId": 70310125,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70310126,
+        "serverController": "SmokeDevice"
+    },
+    {
+        "gadgetId": 70310127,
+        "serverController": "SmokeDevice"
+    },
+    {
+        "gadgetId": 70310129,
+        "serverController": "RogueDungeon_Gadget"
+    },
+    {
+        "gadgetId": 70310130,
+        "serverController": "RogueDungeon_Gadget"
+    },
+    {
+        "gadgetId": 70310131,
+        "serverController": "RogueDungeon_Gadget"
+    },
+    {
+        "gadgetId": 70310132,
+        "serverController": "RogueDungeon_Gadget"
+    },
+    {
+        "gadgetId": 70310133,
+        "serverController": "RogueDungeon_Gadget"
     },
     {
         "gadgetId": 70310134,
@@ -580,11 +3281,15 @@
     },
     {
         "gadgetId": 70310143,
-        "serverController": "SetGadgetState"
+        "serverController": "SetGadgetState_BanMP"
     },
     {
         "gadgetId": 70310144,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70310147,
+        "serverController": "ImmortalFire"
     },
     {
         "gadgetId": 70310153,
@@ -637,6 +3342,10 @@
     {
         "gadgetId": 70310170,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70310171,
+        "serverController": "SetInteractOnDefault"
     },
     {
         "gadgetId": 70310172,
@@ -741,6 +3450,14 @@
     {
         "gadgetId": 70310197,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70310198,
+        "serverController": "GadgetMarkAction"
+    },
+    {
+        "gadgetId": 70310199,
+        "serverController": "GadgetMarkAction"
     },
     {
         "gadgetId": 70310200,
@@ -891,6 +3608,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70310242,
+        "serverController": "SetInteractOnDefault"
+    },
+    {
         "gadgetId": 70310243,
         "serverController": "SetGadgetState"
     },
@@ -929,6 +3650,18 @@
     {
         "gadgetId": 70310252,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70310253,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70310254,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70310255,
+        "serverController": "ElementFlora"
     },
     {
         "gadgetId": 70310256,
@@ -1105,6 +3838,14 @@
     {
         "gadgetId": 70310299,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70310300,
+        "serverController": "WindController"
+    },
+    {
+        "gadgetId": 70310301,
+        "serverController": "FireController"
     },
     {
         "gadgetId": 70310302,
@@ -1847,6 +4588,18 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70320001,
+        "serverController": "gear_keep_spray"
+    },
+    {
+        "gadgetId": 70320002,
+        "serverController": "gear_keep_spray"
+    },
+    {
+        "gadgetId": 70320003,
+        "serverController": "gear_keep_spray"
+    },
+    {
         "gadgetId": 70320004,
         "serverController": "SetGadgetState"
     },
@@ -1893,6 +4646,14 @@
     {
         "gadgetId": 70320015,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70320018,
+        "serverController": "Gear_MovingTarget"
+    },
+    {
+        "gadgetId": 70320019,
+        "serverController": "SetSlidingWallIntee"
     },
     {
         "gadgetId": 70320020,
@@ -2103,6 +4864,14 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330003,
+        "serverController": "ElementForce"
+    },
+    {
+        "gadgetId": 70330004,
+        "serverController": "ElementForce"
+    },
+    {
         "gadgetId": 70330019,
         "serverController": "SetGadgetState"
     },
@@ -2117,6 +4886,10 @@
     {
         "gadgetId": 70330023,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70330024,
+        "serverController": "Crucible"
     },
     {
         "gadgetId": 70330025,
@@ -2219,6 +4992,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330064,
+        "serverController": "SetSakuraActive"
+    },
+    {
         "gadgetId": 70330065,
         "serverController": "SetGadgetState"
     },
@@ -2283,8 +5060,16 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330081,
+        "serverController": "SetALLGadgetState"
+    },
+    {
         "gadgetId": 70330082,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70330083,
+        "serverController": "SetALLGadgetState"
     },
     {
         "gadgetId": 70330084,
@@ -2419,6 +5204,14 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330118,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70330119,
+        "serverController": "SetALLGadgetState"
+    },
+    {
         "gadgetId": 70330120,
         "serverController": "SetGadgetState"
     },
@@ -2447,6 +5240,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330137,
+        "serverController": "SetSakuraActive"
+    },
+    {
         "gadgetId": 70330138,
         "serverController": "SetGadgetState"
     },
@@ -2461,6 +5258,14 @@
     {
         "gadgetId": 70330141,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70330142,
+        "serverController": "DarkPlant"
+    },
+    {
+        "gadgetId": 70330143,
+        "serverController": "DarkPlant"
     },
     {
         "gadgetId": 70330144,
@@ -2519,6 +5324,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330194,
+        "serverController": "SetALLGadgetState"
+    },
+    {
         "gadgetId": 70330197,
         "serverController": "SetGadgetState"
     },
@@ -2573,6 +5382,14 @@
     {
         "gadgetId": 70330230,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70330234,
+        "serverController": "GadgetMarkAction"
+    },
+    {
+        "gadgetId": 70330235,
+        "serverController": "GadgetMarkAction"
     },
     {
         "gadgetId": 70330236,
@@ -2647,6 +5464,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330254,
+        "serverController": "SubfieldDrop_TumbleWeed"
+    },
+    {
         "gadgetId": 70330255,
         "serverController": "SetGadgetState"
     },
@@ -2655,8 +5476,24 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330265,
+        "serverController": "SetGadgetWorkOption"
+    },
+    {
+        "gadgetId": 70330282,
+        "serverController": "ChiWangBarrierGenerator"
+    },
+    {
+        "gadgetId": 70330292,
+        "serverController": "DesertRoseSeed"
+    },
+    {
         "gadgetId": 70330296,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70330304,
+        "serverController": "TestGravity"
     },
     {
         "gadgetId": 70330310,
@@ -2691,12 +5528,48 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330332,
+        "serverController": "FireController"
+    },
+    {
+        "gadgetId": 70330335,
+        "serverController": "ImmortalFire"
+    },
+    {
         "gadgetId": 70330340,
         "serverController": "SetGadgetState"
     },
     {
         "gadgetId": 70330341,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70330342,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70330400,
+        "serverController": "ElecController"
+    },
+    {
+        "gadgetId": 70330401,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70330402,
+        "serverController": "WindController"
+    },
+    {
+        "gadgetId": 70330403,
+        "serverController": "WaterController"
+    },
+    {
+        "gadgetId": 70330404,
+        "serverController": "GrassController"
+    },
+    {
+        "gadgetId": 70330405,
+        "serverController": "RockController"
     },
     {
         "gadgetId": 70330407,
@@ -2719,12 +5592,24 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330435,
+        "serverController": "GadgetMarkAction"
+    },
+    {
         "gadgetId": 70330436,
         "serverController": "SetGadgetState"
     },
     {
         "gadgetId": 70330437,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70330441,
+        "serverController": "FireController"
+    },
+    {
+        "gadgetId": 70330449,
+        "serverController": "ElementFlora"
     },
     {
         "gadgetId": 70330451,
@@ -2735,8 +5620,20 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70330463,
+        "serverController": "GrassController"
+    },
+    {
         "gadgetId": 70330465,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70330470,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70330471,
+        "serverController": "SetALLGadgetState"
     },
     {
         "gadgetId": 70330483,
@@ -2773,6 +5670,10 @@
     {
         "gadgetId": 70350023,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70350027,
+        "serverController": "SubfieldDrop_DropIce"
     },
     {
         "gadgetId": 70350038,
@@ -2943,12 +5844,44 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70350293,
+        "serverController": "SetSlidingWallIntee"
+    },
+    {
         "gadgetId": 70350298,
         "serverController": "SetGadgetState"
     },
     {
         "gadgetId": 70350299,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70350306,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70350307,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70350308,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70350309,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70350310,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70350311,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70350312,
+        "serverController": "SetALLGadgetState"
     },
     {
         "gadgetId": 70350315,
@@ -2977,6 +5910,14 @@
     {
         "gadgetId": 70350379,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70350380,
+        "serverController": "SetSakuraActive"
+    },
+    {
+        "gadgetId": 70350381,
+        "serverController": "SetSakuraActive"
     },
     {
         "gadgetId": 70350382,
@@ -3107,6 +6048,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70350453,
+        "serverController": "SetALLGadgetState"
+    },
+    {
         "gadgetId": 70350454,
         "serverController": "SetGadgetState"
     },
@@ -3171,6 +6116,22 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70360005,
+        "serverController": "TestGravity"
+    },
+    {
+        "gadgetId": 70360006,
+        "serverController": "TestGravity"
+    },
+    {
+        "gadgetId": 70360007,
+        "serverController": "TestGravity"
+    },
+    {
+        "gadgetId": 70360008,
+        "serverController": "BalloonTree"
+    },
+    {
         "gadgetId": 70360011,
         "serverController": "SetGadgetState"
     },
@@ -3181,6 +6142,10 @@
     {
         "gadgetId": 70360013,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70360014,
+        "serverController": "Gear_MovingTarget"
     },
     {
         "gadgetId": 70360015,
@@ -3195,8 +6160,48 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70360023,
+        "serverController": "LaserSwitch"
+    },
+    {
+        "gadgetId": 70360024,
+        "serverController": "LimitRing"
+    },
+    {
         "gadgetId": 70360027,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70360032,
+        "serverController": "WaterController"
+    },
+    {
+        "gadgetId": 70360033,
+        "serverController": "GrassController"
+    },
+    {
+        "gadgetId": 70360034,
+        "serverController": "RockController"
+    },
+    {
+        "gadgetId": 70360035,
+        "serverController": "FireController"
+    },
+    {
+        "gadgetId": 70360036,
+        "serverController": "ElecController"
+    },
+    {
+        "gadgetId": 70360037,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70360038,
+        "serverController": "WindController"
+    },
+    {
+        "gadgetId": 70360040,
+        "serverController": "LimitRing"
     },
     {
         "gadgetId": 70360041,
@@ -3283,6 +6288,14 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70360076,
+        "serverController": "BalloonTree"
+    },
+    {
+        "gadgetId": 70360078,
+        "serverController": "Gear_MovingTarget"
+    },
+    {
         "gadgetId": 70360079,
         "serverController": "SetGadgetState"
     },
@@ -3337,6 +6350,10 @@
     {
         "gadgetId": 70360108,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70360114,
+        "serverController": "SpecialIce"
     },
     {
         "gadgetId": 70360122,
@@ -3479,6 +6496,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70360186,
+        "serverController": "OneStroke_Test"
+    },
+    {
         "gadgetId": 70360187,
         "serverController": "SetGadgetState"
     },
@@ -3531,16 +6552,92 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70360301,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360302,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360303,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360304,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360305,
+        "serverController": "SetALLGadgetState"
+    },
+    {
         "gadgetId": 70360306,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70360307,
+        "serverController": "SetALLGadgetState"
     },
     {
         "gadgetId": 70360308,
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70360309,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360310,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360311,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360312,
+        "serverController": "SetALLGadgetState"
+    },
+    {
         "gadgetId": 70360313,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70360314,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360315,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360316,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360317,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360318,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360319,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360320,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360321,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360322,
+        "serverController": "SetALLGadgetState"
     },
     {
         "gadgetId": 70360323,
@@ -3563,8 +6660,56 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70360329,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360330,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360331,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360332,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360334,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360335,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360336,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360337,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360338,
+        "serverController": "ImmortalFire"
+    },
+    {
         "gadgetId": 70360339,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70360340,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360341,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70360343,
+        "serverController": "SetALLGadgetState"
     },
     {
         "gadgetId": 70360344,
@@ -3577,6 +6722,14 @@
     {
         "gadgetId": 70360346,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70360347,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70360348,
+        "serverController": "ElementFlora"
     },
     {
         "gadgetId": 70360349,
@@ -3787,8 +6940,28 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70380002,
+        "serverController": "Gear_MovingTarget"
+    },
+    {
         "gadgetId": 70380004,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70380008,
+        "serverController": "Fire_Source"
+    },
+    {
+        "gadgetId": 70380016,
+        "serverController": "Oceanid_Platform"
+    },
+    {
+        "gadgetId": 70380017,
+        "serverController": "Oceanid_Platform"
+    },
+    {
+        "gadgetId": 70380018,
+        "serverController": "Oceanid_Platform"
     },
     {
         "gadgetId": 70380019,
@@ -3947,6 +7120,14 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70500008,
+        "serverController": "SetToysCD"
+    },
+    {
+        "gadgetId": 70500009,
+        "serverController": "SetToysCD"
+    },
+    {
         "gadgetId": 70500010,
         "serverController": "SetGadgetState"
     },
@@ -4007,6 +7188,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70500031,
+        "serverController": "SetToysCD"
+    },
+    {
         "gadgetId": 70500033,
         "serverController": "SetGadgetState"
     },
@@ -4017,6 +7202,122 @@
     {
         "gadgetId": 70500035,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70510001,
+        "serverController": "Gather_KapokFlower"
+    },
+    {
+        "gadgetId": 70510002,
+        "serverController": "Gather_FireFlower01"
+    },
+    {
+        "gadgetId": 70510003,
+        "serverController": "Gather_ElectricRock01"
+    },
+    {
+        "gadgetId": 70510005,
+        "serverController": "SubfieldDrop_ElectricRock_Destroy"
+    },
+    {
+        "gadgetId": 70510006,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70510007,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70510009,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70510012,
+        "serverController": "ElementRock"
+    },
+    {
+        "gadgetId": 70510013,
+        "serverController": "ElementRock"
+    },
+    {
+        "gadgetId": 70510014,
+        "serverController": "ElementRock"
+    },
+    {
+        "gadgetId": 70510015,
+        "serverController": "AncientOre"
+    },
+    {
+        "gadgetId": 70520001,
+        "serverController": "SubfieldDrop_Ore_Dig"
+    },
+    {
+        "gadgetId": 70520002,
+        "serverController": "SubfieldDrop_Ore_Mithril"
+    },
+    {
+        "gadgetId": 70520003,
+        "serverController": "SubfieldDrop_Ore_Crystal"
+    },
+    {
+        "gadgetId": 70520018,
+        "serverController": "SubfieldDrop_Ore_Crystal"
+    },
+    {
+        "gadgetId": 70520019,
+        "serverController": "SubfieldDrop_Ore_Crystal"
+    },
+    {
+        "gadgetId": 70520034,
+        "serverController": "ElementFlora"
+    },
+    {
+        "gadgetId": 70520038,
+        "serverController": "SubfieldDrop_Shining_Mushroom"
+    },
+    {
+        "gadgetId": 70520039,
+        "serverController": "SubfieldDrop_Ore_Trishiraite"
+    },
+    {
+        "gadgetId": 70540012,
+        "serverController": "GlazedLily"
+    },
+    {
+        "gadgetId": 70540031,
+        "serverController": "SubfieldDrop_Shining_Ore_Crystal"
+    },
+    {
+        "gadgetId": 70540032,
+        "serverController": "SubfieldDrop_Shining_Ore_Crystal"
+    },
+    {
+        "gadgetId": 70540043,
+        "serverController": "MoonLotus"
+    },
+    {
+        "gadgetId": 70540045,
+        "serverController": "DreamFlower"
+    },
+    {
+        "gadgetId": 70540047,
+        "serverController": "DatePalm"
+    },
+    {
+        "gadgetId": 70590025,
+        "serverController": "SubfieldDrop_Dulins_Blood"
+    },
+    {
+        "gadgetId": 70590027,
+        "serverController": "SubfieldDrop_Ore_MoonMeteor"
+    },
+    {
+        "gadgetId": 70590036,
+        "serverController": "SubfieldDrop_Ore_Thundercrystal"
+    },
+    {
+        "gadgetId": 70590057,
+        "serverController": "CelestiaSplinter"
     },
     {
         "gadgetId": 70590060,
@@ -4051,12 +7352,24 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70690009,
+        "serverController": "AirflowAgent"
+    },
+    {
         "gadgetId": 70690028,
         "serverController": "SetGadgetState"
     },
     {
         "gadgetId": 70690030,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70800006,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70800016,
+        "serverController": "SceneObj_Environment_Field"
     },
     {
         "gadgetId": 70800036,
@@ -4343,6 +7656,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70800171,
+        "serverController": "SetALLGadgetState"
+    },
+    {
         "gadgetId": 70800174,
         "serverController": "SetGadgetState"
     },
@@ -4487,16 +7804,224 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70900003,
+        "serverController": "Clue_Source"
+    },
+    {
+        "gadgetId": 70900007,
+        "serverController": "FireController"
+    },
+    {
+        "gadgetId": 70900008,
+        "serverController": "ElecController"
+    },
+    {
+        "gadgetId": 70900009,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70900011,
+        "serverController": "Test_Rotation"
+    },
+    {
+        "gadgetId": 70900013,
+        "serverController": "gear_keep_spray"
+    },
+    {
+        "gadgetId": 70900033,
+        "serverController": "TestGravity"
+    },
+    {
+        "gadgetId": 70900037,
+        "serverController": "gear_keep_spray"
+    },
+    {
+        "gadgetId": 70900039,
+        "serverController": "WindController"
+    },
+    {
+        "gadgetId": 70900049,
+        "serverController": "WaterController"
+    },
+    {
+        "gadgetId": 70900050,
+        "serverController": "GrassController"
+    },
+    {
+        "gadgetId": 70900051,
+        "serverController": "RockController"
+    },
+    {
+        "gadgetId": 70900052,
+        "serverController": "WaterController"
+    },
+    {
+        "gadgetId": 70900053,
+        "serverController": "GrassController"
+    },
+    {
+        "gadgetId": 70900054,
+        "serverController": "RockController"
+    },
+    {
+        "gadgetId": 70900055,
+        "serverController": "FireController"
+    },
+    {
+        "gadgetId": 70900056,
+        "serverController": "ElecController"
+    },
+    {
+        "gadgetId": 70900057,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70900058,
+        "serverController": "WindController"
+    },
+    {
+        "gadgetId": 70900059,
+        "serverController": "RockController"
+    },
+    {
+        "gadgetId": 70900060,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70900061,
+        "serverController": "FireController"
+    },
+    {
+        "gadgetId": 70900062,
+        "serverController": "WindController"
+    },
+    {
+        "gadgetId": 70900063,
+        "serverController": "AllElemController"
+    },
+    {
+        "gadgetId": 70900064,
+        "serverController": "IceController"
+    },
+    {
+        "gadgetId": 70900065,
+        "serverController": "IceControllerActive"
+    },
+    {
+        "gadgetId": 70900101,
+        "serverController": "WaterController"
+    },
+    {
+        "gadgetId": 70900102,
+        "serverController": "RockController_CYJY"
+    },
+    {
         "gadgetId": 70900209,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70900233,
+        "serverController": "ElementFlora02"
+    },
+    {
+        "gadgetId": 70900236,
+        "serverController": "MimosaTrigger"
+    },
+    {
+        "gadgetId": 70900237,
+        "serverController": "Gather_ElectricRock03"
+    },
+    {
+        "gadgetId": 70900240,
+        "serverController": "ElementRock"
+    },
+    {
+        "gadgetId": 70900242,
+        "serverController": "MoveingStone"
+    },
+    {
+        "gadgetId": 70900244,
+        "serverController": "BadmintonBall"
+    },
+    {
+        "gadgetId": 70900250,
+        "serverController": "RopeSkipping"
+    },
+    {
+        "gadgetId": 70900252,
+        "serverController": "BadmintonBall"
+    },
+    {
+        "gadgetId": 70900260,
+        "serverController": "Mole_DigHole"
+    },
+    {
+        "gadgetId": 70900273,
+        "serverController": "Chest_Interact"
+    },
+    {
+        "gadgetId": 70900277,
+        "serverController": "SubfieldDrop_ElementBall"
+    },
+    {
+        "gadgetId": 70900284,
+        "serverController": "Ginseng"
+    },
+    {
+        "gadgetId": 70900286,
+        "serverController": "GinsengOnTree"
+    },
+    {
+        "gadgetId": 70900288,
+        "serverController": "Chest_Interact"
+    },
+    {
+        "gadgetId": 70900289,
+        "serverController": "ElementRune"
+    },
+    {
+        "gadgetId": 70900293,
+        "serverController": "ElementRune"
+    },
+    {
+        "gadgetId": 70900294,
+        "serverController": "BalloonTree"
+    },
+    {
+        "gadgetId": 70900302,
+        "serverController": "TriggerPlant"
+    },
+    {
+        "gadgetId": 70900303,
+        "serverController": "ViewPoint"
     },
     {
         "gadgetId": 70900304,
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70900306,
+        "serverController": "CompassTrigger"
+    },
+    {
+        "gadgetId": 70900307,
+        "serverController": "TreeRoot"
+    },
+    {
+        "gadgetId": 70900310,
+        "serverController": "ViewPointTrigger"
+    },
+    {
         "gadgetId": 70900318,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70900340,
+        "serverController": "WindSeedTimer"
+    },
+    {
+        "gadgetId": 70900364,
+        "serverController": "WindSeedTimer"
     },
     {
         "gadgetId": 70900348,
@@ -4505,6 +8030,14 @@
     {
         "gadgetId": 70900351,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70900361,
+        "serverController": "BigAster"
+    },
+    {
+        "gadgetId": 70900369,
+        "serverController": "TestGravity"
     },
     {
         "gadgetId": 70900377,
@@ -4557,6 +8090,10 @@
     {
         "gadgetId": 70900401,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70900402,
+        "serverController": "ElecController"
     },
     {
         "gadgetId": 70900403,
@@ -4635,6 +8172,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70900436,
+        "serverController": "FireController"
+    },
+    {
         "gadgetId": 70900438,
         "serverController": "SetGadgetState"
     },
@@ -4645,6 +8186,14 @@
     {
         "gadgetId": 70900440,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70950006,
+        "serverController": "Test_LightLock_Point"
+    },
+    {
+        "gadgetId": 70950007,
+        "serverController": "Test_LightLock"
     },
     {
         "gadgetId": 70950013,
@@ -4667,6 +8216,10 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70950056,
+        "serverController": "SetALLGadgetState"
+    },
+    {
         "gadgetId": 70950057,
         "serverController": "SetGadgetState"
     },
@@ -4677,6 +8230,10 @@
     {
         "gadgetId": 70950061,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70950062,
+        "serverController": "SetALLGadgetState"
     },
     {
         "gadgetId": 70950063,
@@ -4755,6 +8312,14 @@
         "serverController": "SetGadgetState"
     },
     {
+        "gadgetId": 70950084,
+        "serverController": "SetALLGadgetState"
+    },
+    {
+        "gadgetId": 70950085,
+        "serverController": "SetALLGadgetState"
+    },
+    {
         "gadgetId": 70950091,
         "serverController": "SetGadgetState"
     },
@@ -4817,6 +8382,10 @@
     {
         "gadgetId": 70950142,
         "serverController": "SetGadgetState"
+    },
+    {
+        "gadgetId": 70950146,
+        "serverController": "ThreatClearField"
     },
     {
         "gadgetId": 70950147,
@@ -4905,378 +8474,5 @@
     {
         "gadgetId": 72000027,
         "serverController": "SetGadgetState"
-    },
-
-    {
-        "gadgetId": 70217012,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70217014,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70217020,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290114,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290115,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290169,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290170,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290186,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290187,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290188,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290189,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290194,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290195,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290220,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290221,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290222,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290223,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290224,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290225,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290226,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290227,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290228,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290240,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290250,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290251,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290253,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290254,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290255,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290256,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290257,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290258,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290269,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290275,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290278,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290279,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290281,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290282,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290284,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290291,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290292,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290296,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70290297,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70330081,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70330083,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70330118,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70330119,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70330194,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70330342,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70330470,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70330471,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70350306,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70350307,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70350308,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70350309,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70350310,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70350311,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70350312,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70350453,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360301,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360302,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360303,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360304,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360305,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360307,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360309,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360310,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360311,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360312,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360314,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360315,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360316,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360317,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360318,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360319,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360320,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360321,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360322,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360329,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360330,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360331,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360332,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360334,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360335,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360336,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360337,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360340,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360341,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70360343,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70800171,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70950056,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70950062,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70950084,
-        "serverController": "SetALLGadgetState"
-    },
-    {
-        "gadgetId": 70950085,
-        "serverController": "SetALLGadgetState"
     }
 ]
