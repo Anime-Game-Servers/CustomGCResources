@@ -57,14 +57,14 @@ function Static.Get_Operator(context)
     return operator[refreshType]
 end
 
-function Static.Create_Next_Monster_Wave(context)
+function Static.Create_Next_Monster_Wave(context, evt)
     --add new monster suite if it is not already the last suite
     local wave = ScriptLib.GetGroupVariableValue(context, "wave")
     local next_wave = wave + 1
     local next_next_wave = wave + 2
 
     if next_next_wave <= #temp_suites then
-		ScriptLib.AddExtraGroupSuite(context, 0, next_next_wave)
+		ScriptLib.AddExtraGroupSuite(context, evt.group_id, next_next_wave)
         ScriptLib.SetGroupVariableValue(context, "wave", next_wave)
     end
 end
@@ -134,7 +134,7 @@ function action_EVENT_SELECT_OPTION_3(context, evt)
     --mark group as started
     ScriptLib.SetGroupVariableValue(context, "wave", 0)
 
-    Static.Create_Next_Monster_Wave(context)
+    Static.Create_Next_Monster_Wave(context, evt)
     return 0
 end
 
@@ -152,9 +152,9 @@ function condition_ANY_MONSTER_DIE_5(context, evt)
     return true
 end 
 
-function action_EVENT_ANY_MONSTER_DIE_5(context)
+function action_EVENT_ANY_MONSTER_DIE_5(context, evt)
     --Add next monster suite if all active suite monster died
-	Static.Create_Next_Monster_Wave(context)
+	Static.Create_Next_Monster_Wave(context, evt)
 	return 0
 end
 
