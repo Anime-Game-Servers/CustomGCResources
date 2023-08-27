@@ -5549,7 +5549,7 @@
     },
     {
         "gadgetId": 70330400,
-        "serverController": "ElecController"
+        "serverController": "ElectricController"
     },
     {
         "gadgetId": 70330401,
@@ -6189,7 +6189,7 @@
     },
     {
         "gadgetId": 70360036,
-        "serverController": "ElecController"
+        "serverController": "ElectricController"
     },
     {
         "gadgetId": 70360037,
@@ -7813,7 +7813,7 @@
     },
     {
         "gadgetId": 70900008,
-        "serverController": "ElecController"
+        "serverController": "ElectricController"
     },
     {
         "gadgetId": 70900009,
@@ -7869,7 +7869,7 @@
     },
     {
         "gadgetId": 70900056,
-        "serverController": "ElecController"
+        "serverController": "ElectricController"
     },
     {
         "gadgetId": 70900057,
@@ -8093,7 +8093,7 @@
     },
     {
         "gadgetId": 70900402,
-        "serverController": "ElecController"
+        "serverController": "ElectricController"
     },
     {
         "gadgetId": 70900403,
