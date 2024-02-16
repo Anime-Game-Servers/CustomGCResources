@@ -1,0 +1,75 @@
+{
+    "id": 21022,
+    "subQuests": [
+        {
+            "subId": 2102203,
+            "mainId": 21022,
+            "gainItems": [
+                {
+                    "itemId": 100460,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2102204,
+            "mainId": 21022,
+            "gainItems": [
+                {
+                    "itemId": 100461,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2102205,
+            "mainId": 21022,
+            "gainItems": [
+                {
+                    "itemId": 100462,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2102206,
+            "mainId": 21022,
+            "gainItems": [
+                {
+                    "itemId": 100463,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2102207,
+            "mainId": 21022,
+            "gainItems": [
+                {
+                    "itemId": 100464,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2102211,
+            "mainId": 21022,
+            "gainItems": [
+                {
+                    "itemId": 100465,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2102212,
+            "mainId": 21022,
+            "gainItems": [
+                {
+                    "itemId": 100466,
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

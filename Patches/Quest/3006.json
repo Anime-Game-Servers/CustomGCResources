@@ -1,4 +1,36 @@
 {
     "id": 3006,
     "videoKey": 5515318060794455
+    "subQuests": [
+        {
+            "subId": 300604,
+            "mainId": 3006,
+            "gainItems": [
+                {
+                    "itemId": 101963,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 300606,
+            "mainId": 3006,
+            "gainItems": [
+                {
+                    "itemId": 101932,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 300607,
+            "mainId": 3006,
+            "gainItems": [
+                {
+                    "itemId": 101933,
+                    "count": 1
+                }
+            ]
+        }
+    ]
 }
