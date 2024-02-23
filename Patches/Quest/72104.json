@@ -1,0 +1,195 @@
+{
+    "id": 72104,
+    "subQuests": [
+        {
+            "subId": 7210401,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100798,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210402,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100799,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210403,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100800,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210404,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100801,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210405,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100802,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210406,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100803,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210407,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100804,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210416,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100808,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210417,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100809,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210418,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100810,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210426,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100805,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210427,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100806,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210428,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100868,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210429,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100869,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210430,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100870,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210431,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100871,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210432,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100872,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210433,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100873,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 7210434,
+            "mainId": 72104,
+            "gainItems": [
+                {
+                    "itemId": 100874,
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

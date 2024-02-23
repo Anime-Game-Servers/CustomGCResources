@@ -1,4 +1,16 @@
 {
     "id": 13011,
     "videoKey": 7063052926021205
+    "subQuests": [
+        {
+            "subId": 1301108,
+            "mainId": 13011,
+            "gainItems": [
+                {
+                    "itemId": 120114,
+                    "count": 1
+                }
+            ]
+        }
+    ]
 }

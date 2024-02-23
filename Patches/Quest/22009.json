@@ -1,0 +1,15 @@
+{
+    "id": 22009,
+    "subQuests": [
+        {
+            "subId": 2200902,
+            "mainId": 22009,
+            "gainItems": [
+                {
+                    "itemId": 100511,
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}
