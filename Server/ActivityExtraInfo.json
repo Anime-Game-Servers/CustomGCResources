@@ -1,0 +1,212 @@
+[
+    {
+        "activityId": 1001,
+        "defaultGroups": [
+            301001002,
+            301001003,
+            301001004,
+            301001005,
+            301001006,
+            301001007,
+            301001008,
+            301001009
+        ]
+    },
+    {
+        "activityId": 2001,
+        "duration": 14,
+        "rewardPreview": "30100",
+        "specialReward": "3000000",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "20"
+            }
+        ],
+        "defaultWatchers":[
+            1200130,
+            1200131,
+            1200132
+        ],
+        "defaultGroups": [
+            302001001,
+            302001002,
+            302001003,
+            302001004,
+            302001005,
+            302001006,
+            302001007,
+            302001008,
+            302001009,
+            302001010,
+            302001011,
+            302001012,
+            302001013,
+            302001014,
+            302001015,
+            302001016,
+            302001017,
+            302001018,
+            302001019,
+            302001041,
+            302001042,
+            302001043,
+            302001144,
+            302001901,
+            302001902,
+            302001903,
+            302001904
+        ]
+    },
+    {
+        "activityId": 2002,
+        "defaultGroups": [
+            302002901,
+            302002902
+        ]
+    },
+    {
+        "activityId": 2003,
+        "defaultGroups": [
+            302003001
+        ],
+        "duration": 18,
+        "rewardPreview": "30902",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "20"
+            },
+            {
+                "type": "FINISH_QUESTS",
+                "param": "39604"
+            }
+        ],
+        "activeConditions": [
+            {
+                "type": "FINISH_QUESTS",
+                "param": "4141106"
+            }
+
+        ]
+    },
+    {
+        "activityId": 3001,
+        "duration": 15,
+        "rewardPreview": "30300",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "20"
+            },
+            {
+                "type": "FINISH_MAIN_QUESTS",
+                "param": "384"
+            }
+        ],
+        "activeConditions": [
+            {
+                "type": "FINISH_MAIN_QUESTS",
+                "param": "11040,11041,11042,11044,11043,11045"
+            }
+
+        ],
+        "defaultGroups": []
+    },
+    {
+        "activityId": 5001,
+        "defaultGroups": [
+            305001001
+        ]
+    },
+    {
+        "activityId": 5002,
+        "defaultGroups": [
+            305002002
+        ]
+    },
+    {
+        "activityId": 5003,
+        "defaultGroups": [
+            305003001
+        ]
+    },
+    {
+        "activityId": 5007,
+        "defaultGroups": [
+            305007001
+        ]
+    },
+    {
+        "activityId": 5012,
+        "defaultGroups": [
+            305012001
+        ]
+    },
+    {
+        "activityId": 2005,
+        "duration": 21,
+        "rewardPreview": "31703",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "21"
+            },
+            {
+                "type": "FINISH_QUESTS",
+                "param": "39604"
+            }
+        ],
+        "activeConditions": [
+            {
+                "type": "FINISH_QUESTS",
+                "param": "46618,45406,1020204"
+            },
+            {
+                "type": "FINISH_MAIN_QUESTS",
+                "param": "10200,10201,10202"
+            }
+
+        ]
+    },
+    {
+        "activityId": 2007,
+        "duration": 21,
+        "rewardPreview": "32400",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "27"
+            },
+            {
+                "type": "FINISH_QUESTS",
+                "param": "102510"
+            }
+        ],
+        "activeConditions": [
+        ],
+        "comment": "some data from LunaRitePreviewExcelConfigData still missing"
+    },
+    {
+        "activityId": 5037,
+        "rewardPreview": "32001",
+        "defaultWatchers":[
+            1503701,
+            1503702,
+            1503703,
+            1503704,
+            1503705,
+            1503706,
+            1503707,
+            1503708,
+            1503709,
+            1503710,
+            1503711,
+            1503712,
+            1503713,
+            1503714,
+            1503715
+        ],
+        "comment": "some data from ActivityChessPreviewExcelConfigData still missing"
+    }
+]
