@@ -1,0 +1,95 @@
+{
+    "id": 22106,
+    "subQuests": [
+        {
+            "subId": 2210602,
+            "mainId": 22106,
+            "gainItems": [
+                {
+                    "itemId": 100377,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2210603,
+            "mainId": 22106,
+            "gainItems": [
+                {
+                    "itemId": 100378,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2210604,
+            "mainId": 22106,
+            "gainItems": [
+                {
+                    "itemId": 100379,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2210605,
+            "mainId": 22106,
+            "gainItems": [
+                {
+                    "itemId": 100380,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2210606,
+            "mainId": 22106,
+            "gainItems": [
+                {
+                    "itemId": 100381,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2210607,
+            "mainId": 22106,
+            "gainItems": [
+                {
+                    "itemId": 100382,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2210608,
+            "mainId": 22106,
+            "gainItems": [
+                {
+                    "itemId": 100383,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2210609,
+            "mainId": 22106,
+            "gainItems": [
+                {
+                    "itemId": 100384,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2210610,
+            "mainId": 22106,
+            "gainItems": [
+                {
+                    "itemId": 100385,
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

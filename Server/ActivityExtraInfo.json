@@ -1,0 +1,397 @@
+[
+    {
+        "activityId": 1001,
+        "defaultGroups": [
+            301001002,
+            301001003,
+            301001004,
+            301001005,
+            301001006,
+            301001007,
+            301001008,
+            301001009
+        ]
+    },
+    {
+        "activityId": 2001,
+        "duration": 14,
+        "rewardPreview": "30100",
+        "specialReward": "3000000",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "20"
+            }
+        ],
+        "defaultWatchers":[
+            1200130,
+            1200131,
+            1200132
+        ],
+        "defaultGroups": [
+            302001001,
+            302001002,
+            302001003,
+            302001004,
+            302001005,
+            302001006,
+            302001007,
+            302001008,
+            302001009,
+            302001010,
+            302001011,
+            302001012,
+            302001013,
+            302001014,
+            302001015,
+            302001016,
+            302001017,
+            302001018,
+            302001019,
+            302001041,
+            302001042,
+            302001043,
+            302001144,
+            302001901,
+            302001902,
+            302001903,
+            302001904
+        ]
+    },
+    {
+        "activityId": 2002,
+        "defaultGroups": [
+            302002901,
+            302002902
+        ]
+    },
+    {
+        "activityId": 2003,
+        "defaultGroups": [
+            302003001
+        ],
+        "duration": 18,
+        "rewardPreview": "30902",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "20"
+            },
+            {
+                "type": "FINISH_QUESTS",
+                "param": "39604"
+            }
+        ],
+        "activeConditions": [
+            {
+                "type": "FINISH_QUESTS",
+                "param": "4141106"
+            }
+
+        ]
+    },
+    {
+        "activityId": 3001,
+        "duration": 15,
+        "rewardPreview": "30300",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "20"
+            },
+            {
+                "type": "FINISH_MAIN_QUESTS",
+                "param": "384"
+            }
+        ],
+        "activeConditions": [
+            {
+                "type": "FINISH_MAIN_QUESTS",
+                "param": "11040,11041,11042,11044,11043,11045"
+            }
+
+        ],
+        "defaultGroups": []
+    },
+    {
+        "activityId": 5001,
+        "defaultGroups": [
+            305001001
+        ]
+    },
+    {
+        "activityId": 5002,
+        "defaultGroups": [
+            305002002
+        ]
+    },
+    {
+        "activityId": 5003,
+        "defaultGroups": [
+            305003001
+        ]
+    },
+    {
+        "activityId": 5007,
+        "defaultGroups": [
+            305007001
+        ]
+    },
+    {
+        "activityId": 5012,
+        "defaultGroups": [
+            305012001
+        ]
+    },
+    {
+        "activityId": 2005,
+        "duration": 21,
+        "rewardPreview": "31703",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "21"
+            },
+            {
+                "type": "FINISH_QUESTS",
+                "param": "39604"
+            }
+        ],
+        "activeConditions": [
+            {
+                "type": "FINISH_QUESTS",
+                "param": "46618,45406,1020204"
+            },
+            {
+                "type": "FINISH_MAIN_QUESTS",
+                "param": "10200,10201,10202"
+            }
+
+        ]
+    },
+    {
+        "activityId": 2007,
+        "duration": 21,
+        "rewardPreview": "32400",
+        "startConditions": [
+            {
+                "type": "PLAYER_LEVEL",
+                "param": "27"
+            },
+            {
+                "type": "FINISH_QUESTS",
+                "param": "102510"
+            }
+        ],
+        "activeConditions": [
+        ],
+        "comment": "some data from LunaRitePreviewExcelConfigData still missing"
+    },
+    {
+        "activityId": 5037,
+        "rewardPreview": "32001",
+        "defaultWatchers":[
+            1503701,
+            1503702,
+            1503703,
+            1503704,
+            1503705,
+            1503706,
+            1503707,
+            1503708,
+            1503709,
+            1503710,
+            1503711,
+            1503712,
+            1503713,
+            1503714,
+            1503715
+        ],
+        "comment": "some data from ActivityChessPreviewExcelConfigData still missing"
+    },
+    {
+        "activityId": 2010,
+        "bannerConditionId": 2010605,
+        "comment": "NEW_ACTIVITY_SEA_LAMP_2_4 - todo check for more"
+    },
+    {
+        "activityId": 2011,
+        "bannerConditionId": 2011202,
+        "comment": "NEW_ACTIVITY_MICHIAE_MATSURI - todo check for more"
+    },
+    {
+        "activityId": 2012,
+        "bannerConditionId": 2012128,
+        "comment": "NEW_ACTIVITY_IRODORI - todo check for more"
+    },
+    {
+        "activityId": 2013,
+        "bannerConditionId": 2013009,
+        "comment": "NEW_ACTIVITY_ROGUE_DIARY - todo check for more"
+    },
+    {
+        "activityId": 2014,
+        "bannerConditionId": 2014020,
+        "comment": "NEW_ACTIVITY_SUMMER_TIME_2_8 - todo check for more"
+    },
+    {
+        "activityId": 2015,
+        "bannerConditionId": 2015013,
+        "comment": "NEW_ACTIVITY_GRAVEN_INNOCENCE - todo check for more"
+    },
+    {
+        "activityId": 2016,
+        "bannerConditionId": 2016036,
+        "comment": "NEW_ACTIVITY_VINTAGE - todo check for more"
+    },
+    {
+        "activityId": 2017,
+        "bannerConditionId": 2017602,
+        "comment": "NEW_ACTIVITY_FUNGUS_FIGHTER - todo check for more"
+    },
+    {
+        "activityId": 2018,
+        "bannerConditionId": 2018014,
+        "comment": "NEW_ACTIVITY_BRICK_BREAKER - todo check for more"
+    },
+    {
+        "activityId": 2019,
+        "bannerConditionId": 2019007,
+        "comment": "NEW_ACTIVITY_SEA_LAMP_3_4 - todo check for more"
+    },
+    {
+        "activityId": 2020,
+        "bannerConditionId": 2020017,
+        "comment": "NEW_ACTIVITY_FLEURFAIR_V2 - todo check for more"
+    },
+    {
+        "activityId": 2021,
+        "bannerConditionId": 2021008,
+        "comment": "NEW_ACTIVITY_AKA_FES - todo check for more"
+    },
+    {
+        "activityId": 2022,
+        "bannerConditionId": 2022014,
+        "comment": "NEW_ACTIVITY_JOURNEY - todo check for more"
+    },
+    {
+        "activityId": 2023,
+        "bannerConditionId": 2023008,
+        "comment": "NEW_ACTIVITY_PENUMBRA_ADVENTURE - todo check for more"
+    },
+    {
+        "activityId": 2024,
+        "bannerConditionId": 2024021,
+        "comment": "NEW_ACTIVITY_TOY_BATTLE - todo check for more"
+    },
+    {
+        "activityId": 2025,
+        "bannerConditionId": 2025901,
+        "comment": "NEW_ACTIVITY_POETRY_FESTIVAL - todo check for more"
+    },
+    {
+        "activityId": 2026,
+        "bannerConditionId": 2026026,
+        "comment": "NEW_ACTIVITY_RAINBOW_PRINCE - todo check for more"
+    },
+    {
+        "activityId": 2027,
+        "bannerConditionId": 2027902,
+        "comment": "NEW_ACTIVITY_FILMFEST - todo check for more"
+    },
+    {
+        "activityId": 2028,
+        "bannerConditionId": 2028007,
+        "comment": "NEW_ACTIVITY_LANTERN_RITE_V4 - todo check for more"
+    },
+    {
+        "activityId": 2029,
+        "bannerConditionId": 2029013,
+        "comment": "NEW_ACTIVITY_ALCHEMY_SIM - todo check for more"
+    },
+    {
+        "activityId": 2030,
+        "bannerConditionId": 2030021,
+        "comment": "NEW_ACTIVITY_GREAT_FESTIVAL_V2 - todo check for more"
+    },
+    {
+        "activityId": 2031,
+        "bannerConditionId": 2031303,
+        "comment": "NEW_ACTIVITY_MONSTER_VS_MONSTER - todo check for more"
+    },
+    {
+        "activityId": 2032,
+        "bannerConditionId": 2032010,
+        "comment": "NEW_ACTIVITY_FAIRY_TALES - todo check for more"
+    },
+    {
+        "activityId": 2033,
+        "bannerConditionId": 2033004,
+        "comment": "NEW_ACTIVITY_NATLAN_TOUR - todo check for more"
+    },
+    {
+        "activityId": 2034,
+        "bannerConditionId": 2034008,
+        "comment": "NEW_ACTIVITY_NAHIDA_BIRTH - todo check for more"
+    },
+    {
+        "activityId": 2035,
+        "bannerConditionId": 2035008,
+        "comment": "NEW_ACTIVITY_CEREMONY - todo check for more"
+    },
+    {
+        "activityId": 2036,
+        "bannerConditionId": 2036008,
+        "comment": "NEW_ACTIVITY_LANTERN_RITE_V5 - todo check for more"
+    },
+    {
+        "activityId": 2037,
+        "bannerConditionId": 2037020,
+        "comment": "NEW_ACTIVITY_MIKAWA_FLOWER - todo check for more"
+    },
+    {
+        "activityId": 2038,
+        "bannerConditionId": 2038006,
+        "comment": "NEW_ACTIVITY_NATLAN_DRILL - todo check for more"
+    },
+    {
+        "activityId": 2039,
+        "bannerConditionId": 2039018,
+        "comment": "NEW_ACTIVITY_THEME_PARK_SIM - todo check for more"
+    },
+    {
+        "activityId": 2040,
+        "bannerConditionId": 2040003,
+        "comment": "NEW_ACTIVITY_AUTO_CHESS - todo check for more"
+    },
+    {
+        "activityId": 2041,
+        "bannerConditionId": 2041008,
+        "comment": "NEW_ACTIVITY_HOLIDAY_RESORT - todo check for more"
+    },
+    {
+        "activityId": 2042,
+        "bannerConditionId": 2042007,
+        "comment": "NEW_ACTIVITY_NODKRAI_TOUR - todo check for more"
+    },
+    {
+        "activityId": 2043,
+        "bannerConditionId": 2043005,
+        "comment": "NEW_ACTIVITY_SUMERU_ADVENTURE_TRAINING - todo check for more"
+    },
+    {
+        "activityId": 2044,
+        "bannerConditionId": 2044004,
+        "comment": "NEW_ACTIVITY_SNOW_RACE - todo check for more"
+    },
+    {
+        "activityId": 2045,
+        "bannerConditionId": 2045007,
+        "comment": "NEW_ACTIVITY_LANTERN_RITE_V6 - todo check for more"
+    },
+    {
+        "activityId": 2046,
+        "bannerConditionId": 2046007,
+        "comment": "NEW_ACTIVITY_BUBBLE_DRAMA - todo check for more"
+    }
+]

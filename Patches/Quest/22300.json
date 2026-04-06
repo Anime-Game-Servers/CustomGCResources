@@ -1,0 +1,45 @@
+{
+    "id": 22300,
+    "subQuests": [
+        {
+            "subId": 2230010,
+            "mainId": 22300,
+            "gainItems": [
+                {
+                    "itemId": 100366,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2230011,
+            "mainId": 22300,
+            "gainItems": [
+                {
+                    "itemId": 100367,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2230012,
+            "mainId": 22300,
+            "gainItems": [
+                {
+                    "itemId": 100368,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "subId": 2230013,
+            "mainId": 22300,
+            "gainItems": [
+                {
+                    "itemId": 100369,
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}
